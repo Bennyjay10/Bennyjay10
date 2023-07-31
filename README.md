@@ -1,4 +1,8 @@
 ### Hi there 👋
+  
+  <h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I+ go+by+the+name+Akinola+Benjamin.;I'm+a+Software+Developer.;"></a>
+</h1>
 
 <!--
 **Bennyjay10/Bennyjay10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
